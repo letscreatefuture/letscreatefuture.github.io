@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="/tag/tutorial/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2020-07-29T23:50:24+05:30</updated>
+  <id>/tag/tutorial/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">LCF | </title>
+  
+
+  
+    <subtitle>Creating Dream Worlds</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Configuring mpv player - no border, loop and saving position on quit</title>
+      <link href="/article/configuring-mpv-player-no-border-loop-and-saving-position-on-quit-e94bi" rel="alternate" type="text/html" title="Configuring mpv player - no border, loop and saving position on quit" />
+      <published>2020-07-05T00:00:00+05:30</published>
+      <updated>2020-07-05T00:00:00+05:30</updated>
+      <id>/article/configuring-mpv-player-no-border-loop-and-saving-position-on-quit-e94bi</id>
+      <content type="html" xml:base="/article/configuring-mpv-player-no-border-loop-and-saving-position-on-quit-e94bi">&lt;p&gt;mpv is one of the best video players on Linux. Its available on Windows and Mac also.  Lets find out how we can configure this awesome video player:&lt;/p&gt;
+
+&lt;p&gt;There are two different methods:&lt;/p&gt;
+&lt;h3 id=&quot;1-command-line-set-everytime-you-use&quot;&gt;1. Command line (set everytime you use)&lt;/h3&gt;
+
+&lt;h4 id=&quot;-no-border&quot;&gt;* No border&lt;/h4&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ mpv --no-border video.mp4
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h4 id=&quot;-video-loop&quot;&gt;* Video loop&lt;/h4&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ mpv --loop video.mp4
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;2-edit-config-file-set-once-and-for-all&quot;&gt;2. Edit config file (set once and for all)&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Using your preferred text editor (like vim), open the file &lt;code class=&quot;highlighter-rouge&quot;&gt;/home/$USER/.config/mpv/mpv.conf&lt;/code&gt;. 
+If this file does not exists, create it.&lt;/li&gt;
+  &lt;li&gt;Add following code to the file &lt;code class=&quot;highlighter-rouge&quot;&gt;mpv.conf&lt;/code&gt;
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;loop=yes #Playing video will loop
+border=no #Remove border
+save-position-on-quit=yes #Save last position of playing video
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Save the file, close it, and restart mpv player.
+Now it should be as you wanted. Enjoy!&lt;/li&gt;
+&lt;/ol&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Anuroop Singh</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Tutorial" />
+      
+
+      
+        <summary type="html">mpv is one of the best video players on Linux. Its available on Windows and Mac also. Lets find out how we can configure this awesome video player:</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">What are domain names, how do they work and how to get one</title>
+      <link href="/article/what-are-domain-names-how-do-they-work-and-how-to-get-one-mwc9t" rel="alternate" type="text/html" title="What are domain names, how do they work and how to get one" />
+      <published>2020-06-19T00:00:00+05:30</published>
+      <updated>2020-06-19T00:00:00+05:30</updated>
+      <id>/article/what-are-domain-names-how-do-they-work-and-how-to-get-one-mwc9t</id>
+      <content type="html" xml:base="/article/what-are-domain-names-how-do-they-work-and-how-to-get-one-mwc9t">&lt;p&gt;We have seen lots of branded domain names like google.com, facebook.com . This site also have a domain name &lt;a href=&quot;https://letscreatefuture.com&quot;&gt;letscreatefuture.com&lt;/a&gt; . So what is the deal, and what are domain names, especially new domain names like .io, .photo, .website or even .me so much used these days?&lt;/p&gt;
+
+&lt;p&gt;In this article, i want to explain what are domain names and answer some of the most common questions related to them. Here you will learn:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;What is a domain name?&lt;/li&gt;
+  &lt;li&gt;What is DNS (Domain Name System)&lt;/li&gt;
+  &lt;li&gt;Difference between URL, domain name, sub domain, and domain extension.&lt;/li&gt;
+  &lt;li&gt;What are uses of domain names.&lt;/li&gt;
+  &lt;li&gt;Where can you buy domain names&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-is-a-domain-name&quot;&gt;What is a domain name?&lt;/h2&gt;
+
+&lt;p&gt;In the real world every house and location has an address, in the same way on internet a domain name is the address of your website.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Domain names are addresses of places on internet.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;why-do-we-need-domain-names&quot;&gt;Why do we need domain names?&lt;/h2&gt;
+
+&lt;p&gt;If you want your own website, you are going to need a domain name. By entering the domain name in the browser someone will reach your website. Thats a address of your website which anyone can remember. Thats why people choose memorable domain names so that many people remember it.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Your domain name is the first point of contact between you brand and your customers.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;example-of-domain-name&quot;&gt;Example of domain name&lt;/h2&gt;
+
+&lt;p&gt;Some examples are www.google.com, emroline.com, facebook.com.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-do-domain-names-work&quot;&gt;How do domain names work?&lt;/h2&gt;
+
+&lt;p&gt;Using DNS domain names resolve yo IP address of the host that has the website running.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-to-get-a-domain-name&quot;&gt;How to get a domain name?&lt;/h2&gt;
+
+&lt;p&gt;You can go to any domain name provider website and buy a domain name. Some famous providers are godaddy, namecheap and epik.com&lt;/p&gt;
+
+&lt;p&gt;Here is a link for epik.com where you can buy domain names at cheapest possible price:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.epik.com/?affid=mi1be1bi1&quot;&gt;Buy domain at lowest price on epik.com&lt;/a&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Anuroop Singh</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Tutorial" />
+      
+
+      
+        <summary type="html">We have seen lots of branded domain names like google.com, facebook.com . This site also have a domain name letscreatefuture.com . So what is the deal, and what are domain names, especially new domain names like .io, .photo, .website or even .me so much used these days?</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
