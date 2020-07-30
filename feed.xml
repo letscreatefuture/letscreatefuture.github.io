@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-07-30T20:08:53+05:30</updated><id>/</id><title type="html">LCF</title><subtitle>Creating Dream Worlds</subtitle><entry><title type="html">Building our imagination in real world</title><link href="/article/building-our-imagination-in-real-world" rel="alternate" type="text/html" title="Building our imagination in real world" /><published>2020-07-15T14:30:00+05:30</published><updated>2020-07-15T14:30:00+05:30</updated><id>/article/building-our-imagination-in-real-world</id><content type="html" xml:base="/article/building-our-imagination-in-real-world">&lt;h3 id=&quot;the-idea&quot;&gt;The Idea&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-07-30T20:27:15+05:30</updated><id>/</id><title type="html">LCF</title><subtitle>Creating Dream Worlds</subtitle><entry><title type="html">Building our imagination in real world</title><link href="/article/building-our-imagination-in-real-world" rel="alternate" type="text/html" title="Building our imagination in real world" /><published>2020-07-15T14:30:00+05:30</published><updated>2020-07-15T14:30:00+05:30</updated><id>/article/building-our-imagination-in-real-world</id><content type="html" xml:base="/article/building-our-imagination-in-real-world">&lt;h3 id=&quot;the-idea&quot;&gt;The Idea&lt;/h3&gt;
 &lt;p&gt;In our imagination we can create anything. 
 We can build, rebuild, destroy any number of times. 
 But is the real world we have always been limited. 
@@ -112,22 +112,19 @@ Remember, Knowledge is power. If you got this then YOu are the powerful one.&lt;
 &lt;h4 id=&quot;video-loop&quot;&gt;Video loop&lt;/h4&gt;
 &lt;pre&gt;&lt;code&gt;$ mpv --loop video.mp4
 &lt;/code&gt;&lt;/pre&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ mpv --loop video.mp4
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;h3 id=&quot;edit-config-file-set-once-and-for-all&quot;&gt;Edit config file (set once and for all)&lt;/h3&gt;
-&lt;ol&gt;
-  &lt;li&gt;Using your preferred text editor (like vim), open the file &lt;code class=&quot;highlighter-rouge&quot;&gt;/home/$USER/.config/mpv/mpv.conf&lt;/code&gt;. 
-If this file does not exists, create it.&lt;/li&gt;
-  &lt;li&gt;Add following code to the file &lt;code class=&quot;highlighter-rouge&quot;&gt;mpv.conf&lt;/code&gt;
-    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;loop=yes #Playing video will loop
+
+&lt;p&gt;Using your preferred text editor (like vim), open the file &lt;code class=&quot;highlighter-rouge&quot;&gt;/home/$USER/.config/mpv/mpv.conf&lt;/code&gt;. 
+If this file does not exists, create it.&lt;/p&gt;
+
+&lt;p&gt;Add following code to the file &lt;code class=&quot;highlighter-rouge&quot;&gt;mpv.conf&lt;/code&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;loop=yes #Playing video will loop
 border=no #Remove border
 save-position-on-quit=yes #Save last position of playing video
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Save the file, close it, and restart mpv player.
-Now it should be as you wanted. Enjoy!&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Anuroop Singh</name></author><category term="Tutorial" /><summary type="html">mpv is one of the best video players on Linux. Its available on Windows and Mac also. Lets find out how we can configure this awesome video player:</summary></entry><entry><title type="html">What are domain names, how do they work and how to get one</title><link href="/article/what-are-domain-names-how-do-they-work-and-how-to-get-one-mwc9t" rel="alternate" type="text/html" title="What are domain names, how do they work and how to get one" /><published>2020-06-19T00:00:00+05:30</published><updated>2020-06-19T00:00:00+05:30</updated><id>/article/what-are-domain-names-how-do-they-work-and-how-to-get-one-mwc9t</id><content type="html" xml:base="/article/what-are-domain-names-how-do-they-work-and-how-to-get-one-mwc9t">&lt;p&gt;We have seen lots of branded domain names like google.com, facebook.com . This site also have a domain name &lt;a href=&quot;https://letscreatefuture.com&quot;&gt;letscreatefuture.com&lt;/a&gt; . So what is the deal, and what are domain names, especially new domain names like .io, .photo, .website or even .me so much used these days?&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Save the file, close it, and restart mpv player.
+Now it should be as you wanted. Enjoy!&lt;/p&gt;</content><author><name>Anuroop Singh</name></author><category term="Tutorial" /><summary type="html">mpv is one of the best video players on Linux. Its available on Windows and Mac also. Lets find out how we can configure this awesome video player:</summary></entry><entry><title type="html">What are domain names, how do they work and how to get one</title><link href="/article/what-are-domain-names-how-do-they-work-and-how-to-get-one-mwc9t" rel="alternate" type="text/html" title="What are domain names, how do they work and how to get one" /><published>2020-06-19T00:00:00+05:30</published><updated>2020-06-19T00:00:00+05:30</updated><id>/article/what-are-domain-names-how-do-they-work-and-how-to-get-one-mwc9t</id><content type="html" xml:base="/article/what-are-domain-names-how-do-they-work-and-how-to-get-one-mwc9t">&lt;p&gt;We have seen lots of branded domain names like google.com, facebook.com . This site also have a domain name &lt;a href=&quot;https://letscreatefuture.com&quot;&gt;letscreatefuture.com&lt;/a&gt; . So what is the deal, and what are domain names, especially new domain names like .io, .photo, .website or even .me so much used these days?&lt;/p&gt;
 
 &lt;p&gt;In this article, i want to explain what are domain names and answer some of the most common questions related to them. Here you will learn:&lt;/p&gt;
 

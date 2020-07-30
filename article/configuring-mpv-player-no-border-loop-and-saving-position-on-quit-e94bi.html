@@ -191,22 +191,19 @@ into the {body} of the default.hbs template -->
 <h4 id="video-loop">Video loop</h4>
 <pre><code>$ mpv --loop video.mp4
 </code></pre>
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ mpv --loop video.mp4
-</code></pre></div></div>
 
 <h3 id="edit-config-file-set-once-and-for-all">Edit config file (set once and for all)</h3>
-<ol>
-  <li>Using your preferred text editor (like vim), open the file <code class="highlighter-rouge">/home/$USER/.config/mpv/mpv.conf</code>. 
-If this file does not exists, create it.</li>
-  <li>Add following code to the file <code class="highlighter-rouge">mpv.conf</code>
-    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>loop=yes #Playing video will loop
+
+<p>Using your preferred text editor (like vim), open the file <code class="highlighter-rouge">/home/$USER/.config/mpv/mpv.conf</code>. 
+If this file does not exists, create it.</p>
+
+<p>Add following code to the file <code class="highlighter-rouge">mpv.conf</code></p>
+<pre><code>loop=yes #Playing video will loop
 border=no #Remove border
 save-position-on-quit=yes #Save last position of playing video
-</code></pre></div>    </div>
-  </li>
-  <li>Save the file, close it, and restart mpv player.
-Now it should be as you wanted. Enjoy!</li>
-</ol>
+</code></pre>
+<p>Save the file, close it, and restart mpv player.
+Now it should be as you wanted. Enjoy!</p>
 
                 </div>
             </section>

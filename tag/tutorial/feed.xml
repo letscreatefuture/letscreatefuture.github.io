@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/tag/tutorial/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/" rel="alternate" type="text/html" />
-  <updated>2020-07-30T20:08:53+05:30</updated>
+  <updated>2020-07-30T20:27:15+05:30</updated>
   <id>/tag/tutorial/feed.xml</id>
 
   
@@ -63,22 +63,19 @@
 &lt;h4 id=&quot;video-loop&quot;&gt;Video loop&lt;/h4&gt;
 &lt;pre&gt;&lt;code&gt;$ mpv --loop video.mp4
 &lt;/code&gt;&lt;/pre&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ mpv --loop video.mp4
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;h3 id=&quot;edit-config-file-set-once-and-for-all&quot;&gt;Edit config file (set once and for all)&lt;/h3&gt;
-&lt;ol&gt;
-  &lt;li&gt;Using your preferred text editor (like vim), open the file &lt;code class=&quot;highlighter-rouge&quot;&gt;/home/$USER/.config/mpv/mpv.conf&lt;/code&gt;. 
-If this file does not exists, create it.&lt;/li&gt;
-  &lt;li&gt;Add following code to the file &lt;code class=&quot;highlighter-rouge&quot;&gt;mpv.conf&lt;/code&gt;
-    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;loop=yes #Playing video will loop
+
+&lt;p&gt;Using your preferred text editor (like vim), open the file &lt;code class=&quot;highlighter-rouge&quot;&gt;/home/$USER/.config/mpv/mpv.conf&lt;/code&gt;. 
+If this file does not exists, create it.&lt;/p&gt;
+
+&lt;p&gt;Add following code to the file &lt;code class=&quot;highlighter-rouge&quot;&gt;mpv.conf&lt;/code&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;loop=yes #Playing video will loop
 border=no #Remove border
 save-position-on-quit=yes #Save last position of playing video
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Save the file, close it, and restart mpv player.
-Now it should be as you wanted. Enjoy!&lt;/li&gt;
-&lt;/ol&gt;</content>
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Save the file, close it, and restart mpv player.
+Now it should be as you wanted. Enjoy!&lt;/p&gt;</content>
 
       
       
