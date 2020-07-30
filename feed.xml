@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-07-30T00:02:44+05:30</updated><id>/</id><title type="html">LCF</title><subtitle>Creating Dream Worlds</subtitle><entry><title type="html">Building our imagination in real world</title><link href="/article/building-our-imagination-in-real-world" rel="alternate" type="text/html" title="Building our imagination in real world" /><published>2020-07-15T14:30:00+05:30</published><updated>2020-07-15T14:30:00+05:30</updated><id>/article/building-our-imagination-in-real-world</id><content type="html" xml:base="/article/building-our-imagination-in-real-world">&lt;h3 id=&quot;the-idea&quot;&gt;The Idea&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-07-30T20:08:53+05:30</updated><id>/</id><title type="html">LCF</title><subtitle>Creating Dream Worlds</subtitle><entry><title type="html">Building our imagination in real world</title><link href="/article/building-our-imagination-in-real-world" rel="alternate" type="text/html" title="Building our imagination in real world" /><published>2020-07-15T14:30:00+05:30</published><updated>2020-07-15T14:30:00+05:30</updated><id>/article/building-our-imagination-in-real-world</id><content type="html" xml:base="/article/building-our-imagination-in-real-world">&lt;h3 id=&quot;the-idea&quot;&gt;The Idea&lt;/h3&gt;
 &lt;p&gt;In our imagination we can create anything. 
 We can build, rebuild, destroy any number of times. 
 But is the real world we have always been limited. 
@@ -103,17 +103,19 @@ For example: when someone filed against a wealthy individual they are often met 
 Remember, Knowledge is power. If you got this then YOu are the powerful one.&lt;/p&gt;</content><author><name>Krishana Kumar</name></author><category term="Business" /><summary type="html">You often say sometime that you don’t want to live this kind bad life where you don’t live for yourself. You want freedom to live life as you want. Everyone want to become rich ,live luxiourious life, travel around the world but they didn’t know where should they start or what should they do that could make him rich and became independent.</summary></entry><entry><title type="html">Configuring mpv player - no border, loop and saving position on quit</title><link href="/article/configuring-mpv-player-no-border-loop-and-saving-position-on-quit-e94bi" rel="alternate" type="text/html" title="Configuring mpv player - no border, loop and saving position on quit" /><published>2020-07-05T00:00:00+05:30</published><updated>2020-07-05T00:00:00+05:30</updated><id>/article/configuring-mpv-player-no-border-loop-and-saving-position-on-quit-e94bi</id><content type="html" xml:base="/article/configuring-mpv-player-no-border-loop-and-saving-position-on-quit-e94bi">&lt;p&gt;mpv is one of the best video players on Linux. Its available on Windows and Mac also.  Lets find out how we can configure this awesome video player:&lt;/p&gt;
 
 &lt;p&gt;There are two different methods:&lt;/p&gt;
-&lt;h3 id=&quot;1-command-line-set-everytime-you-use&quot;&gt;1. Command line (set everytime you use)&lt;/h3&gt;
+&lt;h3 id=&quot;command-line-set-everytime-you-use&quot;&gt;Command line (set everytime you use)&lt;/h3&gt;
 
-&lt;h4 id=&quot;-no-border&quot;&gt;* No border&lt;/h4&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ mpv --no-border video.mp4
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;h4 id=&quot;-video-loop&quot;&gt;* Video loop&lt;/h4&gt;
+&lt;h4 id=&quot;no-border&quot;&gt;No border&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;$ mpv --no-border video.mp4
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4 id=&quot;video-loop&quot;&gt;Video loop&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;$ mpv --loop video.mp4
+&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ mpv --loop video.mp4
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;h3 id=&quot;2-edit-config-file-set-once-and-for-all&quot;&gt;2. Edit config file (set once and for all)&lt;/h3&gt;
-
+&lt;h3 id=&quot;edit-config-file-set-once-and-for-all&quot;&gt;Edit config file (set once and for all)&lt;/h3&gt;
 &lt;ol&gt;
   &lt;li&gt;Using your preferred text editor (like vim), open the file &lt;code class=&quot;highlighter-rouge&quot;&gt;/home/$USER/.config/mpv/mpv.conf&lt;/code&gt;. 
 If this file does not exists, create it.&lt;/li&gt;
