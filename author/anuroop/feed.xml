@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="http://letscreatefuture.com/author/anuroop/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://letscreatefuture.com/" rel="alternate" type="text/html" />
-  <updated>2020-08-21T00:40:17+05:30</updated>
-  <id>http://letscreatefuture.com/author/anuroop/feed.xml</id>
+  <link href="https://letscreatefuture.com/author/anuroop/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://letscreatefuture.com/" rel="alternate" type="text/html" />
+  <updated>2020-08-21T00:44:39+05:30</updated>
+  <id>https://letscreatefuture.com/author/anuroop/feed.xml</id>
 
   
   
@@ -47,11 +47,11 @@
   
     <entry>
       <title type="html">Building our imagination in real world</title>
-      <link href="http://letscreatefuture.com/article/building-our-imagination-in-real-world" rel="alternate" type="text/html" title="Building our imagination in real world" />
+      <link href="https://letscreatefuture.com/article/building-our-imagination-in-real-world" rel="alternate" type="text/html" title="Building our imagination in real world" />
       <published>2020-07-15T14:30:00+05:30</published>
       <updated>2020-07-15T14:30:00+05:30</updated>
-      <id>http://letscreatefuture.com/article/building-our-imagination-in-real-world</id>
-      <content type="html" xml:base="http://letscreatefuture.com/article/building-our-imagination-in-real-world">&lt;h3 id=&quot;the-idea&quot;&gt;The Idea&lt;/h3&gt;
+      <id>https://letscreatefuture.com/article/building-our-imagination-in-real-world</id>
+      <content type="html" xml:base="https://letscreatefuture.com/article/building-our-imagination-in-real-world">&lt;h3 id=&quot;the-idea&quot;&gt;The Idea&lt;/h3&gt;
 &lt;p&gt;In our imagination we can create anything. 
 We can build, rebuild, destroy any number of times. 
 But is the real world we have always been limited. 
@@ -141,11 +141,11 @@ Here we will build the tech that will allow us to do just that.&lt;/p&gt;
   
     <entry>
       <title type="html">Configuring mpv player - no border, loop and saving position on quit</title>
-      <link href="http://letscreatefuture.com/article/configuring-mpv-player-no-border-loop-and-saving-position-on-quit-e94bi" rel="alternate" type="text/html" title="Configuring mpv player - no border, loop and saving position on quit" />
+      <link href="https://letscreatefuture.com/article/configuring-mpv-player-no-border-loop-and-saving-position-on-quit-e94bi" rel="alternate" type="text/html" title="Configuring mpv player - no border, loop and saving position on quit" />
       <published>2020-07-05T00:00:00+05:30</published>
       <updated>2020-07-05T00:00:00+05:30</updated>
-      <id>http://letscreatefuture.com/article/configuring-mpv-player-no-border-loop-and-saving-position-on-quit-e94bi</id>
-      <content type="html" xml:base="http://letscreatefuture.com/article/configuring-mpv-player-no-border-loop-and-saving-position-on-quit-e94bi">&lt;p&gt;mpv is one of the best video players on Linux. Its available on Windows and Mac also.  Lets find out how we can configure this awesome video player:&lt;/p&gt;
+      <id>https://letscreatefuture.com/article/configuring-mpv-player-no-border-loop-and-saving-position-on-quit-e94bi</id>
+      <content type="html" xml:base="https://letscreatefuture.com/article/configuring-mpv-player-no-border-loop-and-saving-position-on-quit-e94bi">&lt;p&gt;mpv is one of the best video players on Linux. Its available on Windows and Mac also.  Lets find out how we can configure this awesome video player:&lt;/p&gt;
 
 &lt;p&gt;There are two different methods:&lt;/p&gt;
 &lt;h3 id=&quot;command-line-set-everytime-you-use&quot;&gt;Command line (set everytime you use)&lt;/h3&gt;
@@ -199,11 +199,11 @@ Now it should be as you wanted. Enjoy!&lt;/p&gt;</content>
   
     <entry>
       <title type="html">What are domain names, how do they work and how to get one</title>
-      <link href="http://letscreatefuture.com/article/what-are-domain-names-how-do-they-work-and-how-to-get-one-mwc9t" rel="alternate" type="text/html" title="What are domain names, how do they work and how to get one" />
+      <link href="https://letscreatefuture.com/article/what-are-domain-names-how-do-they-work-and-how-to-get-one-mwc9t" rel="alternate" type="text/html" title="What are domain names, how do they work and how to get one" />
       <published>2020-06-19T00:00:00+05:30</published>
       <updated>2020-06-19T00:00:00+05:30</updated>
-      <id>http://letscreatefuture.com/article/what-are-domain-names-how-do-they-work-and-how-to-get-one-mwc9t</id>
-      <content type="html" xml:base="http://letscreatefuture.com/article/what-are-domain-names-how-do-they-work-and-how-to-get-one-mwc9t">&lt;p&gt;We have seen lots of branded domain names like google.com, facebook.com . This site also have a domain name &lt;a href=&quot;https://letscreatefuture.com&quot;&gt;letscreatefuture.com&lt;/a&gt; . So what is the deal, and what are domain names, especially new domain names like .io, .photo, .website or even .me so much used these days?&lt;/p&gt;
+      <id>https://letscreatefuture.com/article/what-are-domain-names-how-do-they-work-and-how-to-get-one-mwc9t</id>
+      <content type="html" xml:base="https://letscreatefuture.com/article/what-are-domain-names-how-do-they-work-and-how-to-get-one-mwc9t">&lt;p&gt;We have seen lots of branded domain names like google.com, facebook.com . This site also have a domain name &lt;a href=&quot;https://letscreatefuture.com&quot;&gt;letscreatefuture.com&lt;/a&gt; . So what is the deal, and what are domain names, especially new domain names like .io, .photo, .website or even .me so much used these days?&lt;/p&gt;
 
 &lt;p&gt;In this article, i want to explain what are domain names and answer some of the most common questions related to them. Here you will learn:&lt;/p&gt;
 
@@ -275,11 +275,11 @@ Now it should be as you wanted. Enjoy!&lt;/p&gt;</content>
   
     <entry>
       <title type="html">Best Superhero and Scifi shows I found on Internet</title>
-      <link href="http://letscreatefuture.com/article/best-superhero-and-scifi-shows-i-found-on-internet-dwbij" rel="alternate" type="text/html" title="Best Superhero and Scifi shows I found on Internet" />
+      <link href="https://letscreatefuture.com/article/best-superhero-and-scifi-shows-i-found-on-internet-dwbij" rel="alternate" type="text/html" title="Best Superhero and Scifi shows I found on Internet" />
       <published>2020-06-17T00:00:00+05:30</published>
       <updated>2020-06-17T00:00:00+05:30</updated>
-      <id>http://letscreatefuture.com/article/best-superhero-and-scifi-shows-i-found-on-internet-dwbij</id>
-      <content type="html" xml:base="http://letscreatefuture.com/article/best-superhero-and-scifi-shows-i-found-on-internet-dwbij">&lt;p&gt;Hey we all love to watch scify and superhero shows. Here is a list of my favourite shows. All of them are related to super power, heroes, science fiction, revolution and stuffs like that.&lt;/p&gt;
+      <id>https://letscreatefuture.com/article/best-superhero-and-scifi-shows-i-found-on-internet-dwbij</id>
+      <content type="html" xml:base="https://letscreatefuture.com/article/best-superhero-and-scifi-shows-i-found-on-internet-dwbij">&lt;p&gt;Hey we all love to watch scify and superhero shows. Here is a list of my favourite shows. All of them are related to super power, heroes, science fiction, revolution and stuffs like that.&lt;/p&gt;
 
 &lt;h2 id=&quot;series&quot;&gt;Series&lt;/h2&gt;
 
@@ -335,11 +335,11 @@ Now it should be as you wanted. Enjoy!&lt;/p&gt;</content>
   
     <entry>
       <title type="html">The Age of Real Superheroes is coming</title>
-      <link href="http://letscreatefuture.com/article/the-age-of-real-superheroes-is-coming-p8q3j" rel="alternate" type="text/html" title="The Age of Real Superheroes is coming" />
+      <link href="https://letscreatefuture.com/article/the-age-of-real-superheroes-is-coming-p8q3j" rel="alternate" type="text/html" title="The Age of Real Superheroes is coming" />
       <published>2020-06-13T00:00:00+05:30</published>
       <updated>2020-06-13T00:00:00+05:30</updated>
-      <id>http://letscreatefuture.com/article/the-age-of-real-superheroes-is-coming-p8q3j</id>
-      <content type="html" xml:base="http://letscreatefuture.com/article/the-age-of-real-superheroes-is-coming-p8q3j">&lt;h2 id=&quot;every-child-wants-superpowers&quot;&gt;Every child wants superpowers&lt;/h2&gt;
+      <id>https://letscreatefuture.com/article/the-age-of-real-superheroes-is-coming-p8q3j</id>
+      <content type="html" xml:base="https://letscreatefuture.com/article/the-age-of-real-superheroes-is-coming-p8q3j">&lt;h2 id=&quot;every-child-wants-superpowers&quot;&gt;Every child wants superpowers&lt;/h2&gt;
 &lt;p&gt;In our childhood most of us have fanticized about having superpowers. When we were child we all wanted to fly, to jump from high buildings without any injuries, to use those cool gadgets we saw in Ben10 and other really really cool scifi shows.&lt;/p&gt;
 
 &lt;h2 id=&quot;over-time-the-reality-sank-in&quot;&gt;Over time the reality sank in&lt;/h2&gt;
@@ -394,11 +394,11 @@ Now it should be as you wanted. Enjoy!&lt;/p&gt;</content>
   
     <entry>
       <title type="html">What will it take to build a real Iron Man?</title>
-      <link href="http://letscreatefuture.com/article/what-will-it-take-to-build-a-real-iron-man-shoc5" rel="alternate" type="text/html" title="What will it take to build a real Iron Man?" />
+      <link href="https://letscreatefuture.com/article/what-will-it-take-to-build-a-real-iron-man-shoc5" rel="alternate" type="text/html" title="What will it take to build a real Iron Man?" />
       <published>2020-06-13T00:00:00+05:30</published>
       <updated>2020-06-13T00:00:00+05:30</updated>
-      <id>http://letscreatefuture.com/article/what-will-it-take-to-build-a-real-iron-man-shoc5</id>
-      <content type="html" xml:base="http://letscreatefuture.com/article/what-will-it-take-to-build-a-real-iron-man-shoc5">&lt;p&gt;It will take lots of resources and knowledge. But the best part is that it can be build.&lt;/p&gt;</content>
+      <id>https://letscreatefuture.com/article/what-will-it-take-to-build-a-real-iron-man-shoc5</id>
+      <content type="html" xml:base="https://letscreatefuture.com/article/what-will-it-take-to-build-a-real-iron-man-shoc5">&lt;p&gt;It will take lots of resources and knowledge. But the best part is that it can be build.&lt;/p&gt;</content>
 
       
       
@@ -428,11 +428,11 @@ Now it should be as you wanted. Enjoy!&lt;/p&gt;</content>
   
     <entry>
       <title type="html">Futuristic Space Tech that will revolutionize space travel</title>
-      <link href="http://letscreatefuture.com/article/futuristic-space-tech-that-will-revolutionize-space-travel-mlai2" rel="alternate" type="text/html" title="Futuristic Space Tech that will revolutionize space travel" />
+      <link href="https://letscreatefuture.com/article/futuristic-space-tech-that-will-revolutionize-space-travel-mlai2" rel="alternate" type="text/html" title="Futuristic Space Tech that will revolutionize space travel" />
       <published>2020-06-08T00:00:00+05:30</published>
       <updated>2020-06-08T00:00:00+05:30</updated>
-      <id>http://letscreatefuture.com/article/futuristic-space-tech-that-will-revolutionize-space-travel-mlai2</id>
-      <content type="html" xml:base="http://letscreatefuture.com/article/futuristic-space-tech-that-will-revolutionize-space-travel-mlai2">&lt;p&gt;What we are achieving in space using rockets is awesome. But these chemical rockets won’t take much deep into space. We need new tech that will take us faster and farther. Its clear not that in 2024 we will be on Mars, in 5 to 10 years we will have some kind of city on Mars.&lt;/p&gt;
+      <id>https://letscreatefuture.com/article/futuristic-space-tech-that-will-revolutionize-space-travel-mlai2</id>
+      <content type="html" xml:base="https://letscreatefuture.com/article/futuristic-space-tech-that-will-revolutionize-space-travel-mlai2">&lt;p&gt;What we are achieving in space using rockets is awesome. But these chemical rockets won’t take much deep into space. We need new tech that will take us faster and farther. Its clear not that in 2024 we will be on Mars, in 5 to 10 years we will have some kind of city on Mars.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Farther and Faster is what we need&lt;/p&gt;
@@ -485,11 +485,11 @@ Now it should be as you wanted. Enjoy!&lt;/p&gt;</content>
   
     <entry>
       <title type="html">How to go from 0 to billionaire?</title>
-      <link href="http://letscreatefuture.com/article/how-to-go-from-0-to-billionaire-ori16" rel="alternate" type="text/html" title="How to go from 0 to billionaire?" />
+      <link href="https://letscreatefuture.com/article/how-to-go-from-0-to-billionaire-ori16" rel="alternate" type="text/html" title="How to go from 0 to billionaire?" />
       <published>2020-06-07T00:00:00+05:30</published>
       <updated>2020-06-07T00:00:00+05:30</updated>
-      <id>http://letscreatefuture.com/article/how-to-go-from-0-to-billionaire-ori16</id>
-      <content type="html" xml:base="http://letscreatefuture.com/article/how-to-go-from-0-to-billionaire-ori16">&lt;p&gt;Well as far as i have found there are certain steps or you can say jumps.&lt;/p&gt;
+      <id>https://letscreatefuture.com/article/how-to-go-from-0-to-billionaire-ori16</id>
+      <content type="html" xml:base="https://letscreatefuture.com/article/how-to-go-from-0-to-billionaire-ori16">&lt;p&gt;Well as far as i have found there are certain steps or you can say jumps.&lt;/p&gt;
 
 &lt;h3 id=&quot;1-somehow-go-from-0-to-where-you-have-certain-money&quot;&gt;1. Somehow go from 0 to where you have certain money.&lt;/h3&gt;
 
@@ -539,11 +539,11 @@ Now it should be as you wanted. Enjoy!&lt;/p&gt;</content>
   
     <entry>
       <title type="html">How to start a business from scratch?</title>
-      <link href="http://letscreatefuture.com/article/how-to-start-a-business-from-scratch-as24h" rel="alternate" type="text/html" title="How to start a business from scratch?" />
+      <link href="https://letscreatefuture.com/article/how-to-start-a-business-from-scratch-as24h" rel="alternate" type="text/html" title="How to start a business from scratch?" />
       <published>2020-06-07T00:00:00+05:30</published>
       <updated>2020-06-07T00:00:00+05:30</updated>
-      <id>http://letscreatefuture.com/article/how-to-start-a-business-from-scratch-as24h</id>
-      <content type="html" xml:base="http://letscreatefuture.com/article/how-to-start-a-business-from-scratch-as24h">&lt;p&gt;Every great business starts with drive and passion.&lt;/p&gt;
+      <id>https://letscreatefuture.com/article/how-to-start-a-business-from-scratch-as24h</id>
+      <content type="html" xml:base="https://letscreatefuture.com/article/how-to-start-a-business-from-scratch-as24h">&lt;p&gt;Every great business starts with drive and passion.&lt;/p&gt;
 &lt;h2 id=&quot;six-steps-to-start-a-business-from-zero&quot;&gt;Six steps to start a business from zero&lt;/h2&gt;
 
 &lt;h3 id=&quot;1-research-your-market&quot;&gt;1. Research your market&lt;/h3&gt;
@@ -596,11 +596,11 @@ Now it should be as you wanted. Enjoy!&lt;/p&gt;</content>
   
     <entry>
       <title type="html">How 5G will change the world?</title>
-      <link href="http://letscreatefuture.com/article/how-5g-will-change-the-world-kv0qi" rel="alternate" type="text/html" title="How 5G will change the world?" />
+      <link href="https://letscreatefuture.com/article/how-5g-will-change-the-world-kv0qi" rel="alternate" type="text/html" title="How 5G will change the world?" />
       <published>2020-06-05T00:00:00+05:30</published>
       <updated>2020-06-05T00:00:00+05:30</updated>
-      <id>http://letscreatefuture.com/article/how-5g-will-change-the-world-kv0qi</id>
-      <content type="html" xml:base="http://letscreatefuture.com/article/how-5g-will-change-the-world-kv0qi">&lt;p&gt;In our time we have experienced 2G, 3G and now 4G. With every successive generation, internet becomes much more reliable and faster. Now there is hype about fifth-generation connectivity or 5G internet. After all these years 5G is slowly coming to reality. This technology isn’t just going to change our lives, this is going to transform the entire human civilization. 5G has the potential to change everything. You should really get excited about this 5G thing.&lt;/p&gt;
+      <id>https://letscreatefuture.com/article/how-5g-will-change-the-world-kv0qi</id>
+      <content type="html" xml:base="https://letscreatefuture.com/article/how-5g-will-change-the-world-kv0qi">&lt;p&gt;In our time we have experienced 2G, 3G and now 4G. With every successive generation, internet becomes much more reliable and faster. Now there is hype about fifth-generation connectivity or 5G internet. After all these years 5G is slowly coming to reality. This technology isn’t just going to change our lives, this is going to transform the entire human civilization. 5G has the potential to change everything. You should really get excited about this 5G thing.&lt;/p&gt;
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/_Qzc0dM9vTQ?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
