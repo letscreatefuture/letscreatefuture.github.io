@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: http://letscreatefuture.com/sitemap.xml

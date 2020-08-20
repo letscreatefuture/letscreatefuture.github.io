@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="/tag/tutorial/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="/" rel="alternate" type="text/html" />
-  <updated>2020-08-21T00:28:30+05:30</updated>
-  <id>/tag/tutorial/feed.xml</id>
+  <link href="http://letscreatefuture.com/tag/tutorial/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://letscreatefuture.com/" rel="alternate" type="text/html" />
+  <updated>2020-08-21T00:40:17+05:30</updated>
+  <id>http://letscreatefuture.com/tag/tutorial/feed.xml</id>
 
   
   
@@ -47,11 +47,11 @@
   
     <entry>
       <title type="html">Configuring mpv player - no border, loop and saving position on quit</title>
-      <link href="/article/configuring-mpv-player-no-border-loop-and-saving-position-on-quit-e94bi" rel="alternate" type="text/html" title="Configuring mpv player - no border, loop and saving position on quit" />
+      <link href="http://letscreatefuture.com/article/configuring-mpv-player-no-border-loop-and-saving-position-on-quit-e94bi" rel="alternate" type="text/html" title="Configuring mpv player - no border, loop and saving position on quit" />
       <published>2020-07-05T00:00:00+05:30</published>
       <updated>2020-07-05T00:00:00+05:30</updated>
-      <id>/article/configuring-mpv-player-no-border-loop-and-saving-position-on-quit-e94bi</id>
-      <content type="html" xml:base="/article/configuring-mpv-player-no-border-loop-and-saving-position-on-quit-e94bi">&lt;p&gt;mpv is one of the best video players on Linux. Its available on Windows and Mac also.  Lets find out how we can configure this awesome video player:&lt;/p&gt;
+      <id>http://letscreatefuture.com/article/configuring-mpv-player-no-border-loop-and-saving-position-on-quit-e94bi</id>
+      <content type="html" xml:base="http://letscreatefuture.com/article/configuring-mpv-player-no-border-loop-and-saving-position-on-quit-e94bi">&lt;p&gt;mpv is one of the best video players on Linux. Its available on Windows and Mac also.  Lets find out how we can configure this awesome video player:&lt;/p&gt;
 
 &lt;p&gt;There are two different methods:&lt;/p&gt;
 &lt;h3 id=&quot;command-line-set-everytime-you-use&quot;&gt;Command line (set everytime you use)&lt;/h3&gt;
@@ -105,11 +105,11 @@ Now it should be as you wanted. Enjoy!&lt;/p&gt;</content>
   
     <entry>
       <title type="html">What are domain names, how do they work and how to get one</title>
-      <link href="/article/what-are-domain-names-how-do-they-work-and-how-to-get-one-mwc9t" rel="alternate" type="text/html" title="What are domain names, how do they work and how to get one" />
+      <link href="http://letscreatefuture.com/article/what-are-domain-names-how-do-they-work-and-how-to-get-one-mwc9t" rel="alternate" type="text/html" title="What are domain names, how do they work and how to get one" />
       <published>2020-06-19T00:00:00+05:30</published>
       <updated>2020-06-19T00:00:00+05:30</updated>
-      <id>/article/what-are-domain-names-how-do-they-work-and-how-to-get-one-mwc9t</id>
-      <content type="html" xml:base="/article/what-are-domain-names-how-do-they-work-and-how-to-get-one-mwc9t">&lt;p&gt;We have seen lots of branded domain names like google.com, facebook.com . This site also have a domain name &lt;a href=&quot;https://letscreatefuture.com&quot;&gt;letscreatefuture.com&lt;/a&gt; . So what is the deal, and what are domain names, especially new domain names like .io, .photo, .website or even .me so much used these days?&lt;/p&gt;
+      <id>http://letscreatefuture.com/article/what-are-domain-names-how-do-they-work-and-how-to-get-one-mwc9t</id>
+      <content type="html" xml:base="http://letscreatefuture.com/article/what-are-domain-names-how-do-they-work-and-how-to-get-one-mwc9t">&lt;p&gt;We have seen lots of branded domain names like google.com, facebook.com . This site also have a domain name &lt;a href=&quot;https://letscreatefuture.com&quot;&gt;letscreatefuture.com&lt;/a&gt; . So what is the deal, and what are domain names, especially new domain names like .io, .photo, .website or even .me so much used these days?&lt;/p&gt;
 
 &lt;p&gt;In this article, i want to explain what are domain names and answer some of the most common questions related to them. Here you will learn:&lt;/p&gt;
 
